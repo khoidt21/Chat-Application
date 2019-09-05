@@ -1,0 +1,43 @@
+Luong du lieu chay chuong trinh 
+
+_ Mo project PRJ311xA3-Server chay server dau tien 
+_ Mo project PRJ311xA3-Client chay client 
+
+_ Nhap thong tin cho client 
+Ðien ten may chu (server) và cong (port) roi nhan nut Connect => Ket noi toi may chu (server) thanh cong.
+
+Ten may chu : 127.0.0.1 
+Cong port : 1234
+Ten may khach (client) hien o may chu (server side)
+Nut send o phia may khach (client side) duoc kich hoat va san sang gui tin 
+
+Chay client lan 2
+
+_ Nhap thong tin cho client 
+Ðien ten may chu (server) và cong (port) roi nhan nut Connect => Ket noi toi may chu (server) thanh cong.
+
+Ten may chu : 127.0.0.1 
+Cong port : 1234
+Ten may khach (client) hien o may chu (server side)
+Nut send o phia may khach (client side) duoc kich hoat va san sang gui tin 
+
+_ Chon may khach client dau tien va chon ten tuong ung 
+_ Hop hoi thoai hien ra va san sang tro chuyen voi may khach (client) hien ra ten may khach client duoc chon
+_ Gui tin nhan thanh cong 
+_ Nhan tin nhan thanh cong 
+
+Database : bang Users chua thong tin may Server va may khach 
+           bang Message chua thong tin noi dung chat giua server va may khach 
+
+           Bang Users can insert them du lieu cua may Server 
+           Insert into Users values('Server','Server');  // de tranh loi rang buoc khoa ngoai
+           
+
+
+
+
+
+
+
+
+
